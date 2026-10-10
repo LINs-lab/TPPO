@@ -1,0 +1,27 @@
+{
+  "full": {
+    "number_max": 100,
+    "number_min": 1,
+    "operand_counts": {
+      "5": 1024
+    },
+    "rows": 1024,
+    "target_max": 1000,
+    "target_min": 1
+  },
+  "matched": {
+    "number_max": 99,
+    "number_min": 1,
+    "operand_counts": {
+      "5": 256
+    },
+    "rows": 256,
+    "target_max": 100,
+    "target_min": 10
+  },
+  "matched_candidates": 362,
+  "seed": 42,
+  "source": "yzhuang/tinyzero-Countdown-Tasks-5",
+  "source_unique_rows": 1024,
+  "source_url": "https://huggingface.co/datasets/yzhuang/tinyzero-Countdown-Tasks-5/resolve/main/data/test-00000-of-00001.parquet?download=true"
+}

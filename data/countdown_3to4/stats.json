@@ -1,0 +1,19 @@
+{
+  "balanced_operands": true,
+  "seed": 42,
+  "source": "Jiayi-Pan/Countdown-Tasks-3to4",
+  "source_rows": 490364,
+  "source_url": "https://huggingface.co/datasets/Jiayi-Pan/Countdown-Tasks-3to4/resolve/main/data/train-00000-of-00001.parquet?download=true",
+  "test_operand_counts": {
+    "3": 512,
+    "4": 512
+  },
+  "test_rows": 1024,
+  "train_operand_counts": {
+    "3": 20000,
+    "4": 20000
+  },
+  "train_rows": 40000,
+  "train_test_overlap": 0,
+  "unique_rows": 449570
+}

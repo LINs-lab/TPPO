@@ -1,0 +1,1 @@
+{"name": "8b_tppo_iter119", "mode": "tppo", "actor": "/path/to/checkpoints/tppo/iter_0000119", "critic": "/path/to/checkpoints/tppo/critic/iter_0000119"}
